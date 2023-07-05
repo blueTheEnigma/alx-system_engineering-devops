@@ -1,2 +1,2 @@
 #!/bin/bash
-find /home -iname '[:upper:]*' -exec mv '{}' /tmp/u \;
+find /home -iname '[:upper:]*' -exec mv '{}' /tmp/u
