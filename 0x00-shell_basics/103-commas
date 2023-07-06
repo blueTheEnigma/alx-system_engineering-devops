@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A1 | { LC_ALL=C sort -df & echo}
+ls -apmv
