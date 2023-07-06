@@ -1,2 +1,2 @@
 #!/bin/bash
-mv */[[:upppr:]]* /tmp/u
+mv **/**/[[:upppr:]]* /tmp/u
