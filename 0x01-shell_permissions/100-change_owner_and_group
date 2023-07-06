@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo chown -R justin .
-chgrp -R staff .
+sudo chown -R justin:staff 
