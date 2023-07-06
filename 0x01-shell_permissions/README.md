@@ -13,3 +13,4 @@ Group: no permission at all
 Other users: all the permissions
 project 9 - sets the mode of the file hello to -rwxr-x-wx.
 project 10 - sets the mode of the file hello the same as olleh’s mode.
+project 11 - adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
