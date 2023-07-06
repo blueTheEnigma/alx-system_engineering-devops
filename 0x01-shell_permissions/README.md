@@ -4,3 +4,4 @@ project 2 - prints all the groups the current user is part of.
 project 3 - changes the owner of the file hello to the user betty.
 project 4 - creates an empty file called hello.
 project 5 - adds execute permission to the owner of the file hello.
+project 7 - adds execution permission to the owner, the group owner and the other users, to the file hello.
